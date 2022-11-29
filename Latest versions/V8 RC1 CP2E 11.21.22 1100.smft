@@ -1,0 +1,13 @@
+<Device Model="CP2E">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="15" DeviceId="None" Name="CNPWS-75"/>
+      <Device Model="ST-IO" DeviceId="03"/>
+      <Device Model="CNPI-16,CNPI-16B," DeviceId="11" Name="CNPI-16"/>
+      <Device Model="CNPI-16,CNPI-16B," DeviceId="22" Name="CNPI-16"/>
+      <Device Model="CNPI-16,CNPI-16B," DeviceId="33" Name="CNPI-16"/>
+      <Device Model="CNPI-16,CNPI-16B," DeviceId="44" Name="CNPI-16"/>
+   </Network>
+   <Network Type="Ethernet" Id="05">
+      <Device Model="TSW-770" DeviceId="03"/>
+   </Network>
+</Device>
